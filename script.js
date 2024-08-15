@@ -24,7 +24,7 @@ var swiper = new Swiper(".home-slider", {
   spaceBetween: 30,
   centeredSlides: true,
   autoplay: {
-    delay: 1500,
+    delay: 9500,
     disableOnInteraction: false,
   },
   pagination: {
@@ -38,7 +38,7 @@ var swiper = new Swiper(".review-slider", {
   spaceBetween: 30,
   centeredSlides: true,
   autoplay: {
-    delay: 1000,
+    delay: 9500,
     disableOnInteraction: false,
   },
   loop: true,
