@@ -553,3 +553,23 @@ section:nth-child(even) {
     border-radius: 50%;
     object-fit: cover;
 }
+
+.review .slide .user h3{
+color: var(--black);
+font-size: 2rem;
+padding-bottom: .5rem;
+}
+
+.review .slide .user i{
+font-size: 1.3rem;
+color: var(--green);
+}
+
+.review .slide p{
+    font-size: 1.5rem;
+    line-height: 1.8;
+    color: var(--light-color);
+}
+
+
+
